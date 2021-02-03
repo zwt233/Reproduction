@@ -1,6 +1,6 @@
-# DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition.
+# GMLP: Building Scalable and Flexible Graph Neural Networks with Feature-Message Passing.
 
-This repository is the official implementation of DeGNN. 
+This repository is the official implementation of GMLP. 
 
 ## Requirements
 
@@ -14,9 +14,6 @@ pip install -r requirement.txt --user
 ## Training
 
 To train the model(s) in the paper:
-
-
-
 
 >run the ipynb notebook file "test.ipynb" under  directory ‘examples’
 
