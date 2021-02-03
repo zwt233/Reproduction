@@ -26,11 +26,11 @@ Even with 50 propagation steps, GMLP still keeps a good performance on PunMed!
 
 1. Transductive settings:
 
-<img src="transductive.png" width="80%" height="80%">
+<img src="transductive.png" width="100%" height="100%">
 
 2. Inductive settings:
 
-<img src="inductive.png" width="80%" height="80%">
+<img src="inductive.png" width="40%" height="40%">
 
 3. Efficiency:
 
