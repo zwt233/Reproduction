@@ -23,6 +23,8 @@ To train the model(s) in the paper:
 >> - input:  the graph file in dir "data"
 >>- output:  the test accuracy
 
+Even with 50 propagation steps, GMLP still keeps a good performance on PunMed!
+
 ## Results
 
 1. Transductive settings:
@@ -37,6 +39,10 @@ To train the model(s) in the paper:
 
 <img src="performance_time.png" width="80%" height="80%">
 
-4. Scalability:
+4. Training scalability:
 
 <img src="scalability.png" width="80%" height="80%">
+
+5. Model scalability:
+
+<img src="depth.png" width="80%" height="80%">
