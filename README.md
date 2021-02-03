@@ -38,7 +38,7 @@ Even with 50 propagation steps, GMLP still keeps a good performance on PunMed!
 
 4. Training scalability:
 
-<img src="scalability.png" width="80%" height="80%">
+<img src="scalability.png" width="100%" height="100%">
 
 5. Model scalability:
 
