@@ -20,7 +20,7 @@ To train the model(s) in the paper:
 >> - input:  the graph file in dir "data"
 >>- output:  the test accuracy
 
-Even with 50 propagation steps, GMLP still keeps a good performance on PunMed!
+Even with 50 propagation steps, GMLP still keeps a good performance on PubMed!
 
 ## Results
 
